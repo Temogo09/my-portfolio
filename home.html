@@ -1,0 +1,223 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Temogo | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#resume">Resume</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Home Section -->
+        <section id="home" class="section active">
+            <div class="home-content">
+                <img src="assets/images/profile.jpg" alt="Temogo Mokidiane" class="home-profile-pic">
+                <h1 class="home-name">Temogo Mokidiane</h1>
+                <p class="home-quote">"Turning ideas into solutions through analysis and technology."</p>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="section active">
+            <div class="section-content">
+                <h2>About Me</h2>
+                <p>
+                    Hi, I’m <strong>Temogo Mokidiane</strong>, a final-year <strong>BSc Information Technology</strong> student at North-West University with a strong interest in using data, technology, and analysis to drive better decision-making.
+                </p>
+                <p>
+                    I am passionate about pursuing a career in <strong>Business Analysis</strong>, where I can combine my technical background with critical thinking to solve real-world business challenges. My academic journey has given me solid experience in systems analysis, software development, and team collaboration.
+                </p>
+                <p>
+                    Currently, I serve as a <strong>Student Assistant and Systems Analysis Tutor</strong>, where I support and mentor fellow students. I've also led and contributed to several impactful projects including a <em>Hotel Management System</em> and a <em>Messaging Application</em>, which helped sharpen my problem-solving and communication skills.
+                </p>
+                <p>
+                    I enjoy continuously learning, building meaningful digital solutions, and working in environments where creativity meets logic. I'm excited about opportunities that allow me to grow, contribute, and make a lasting impact in the tech space.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- Resume Section -->
+        <section id="resume" class="section active">
+            <div class="section-content">
+                <h2>Resume</h2>
+                <p>View or download my resume:</p>
+                <a href="assets/Temogo_Mokidiane_CV.pdf" target="_blank">📄 View CV</a> |
+                <a href="assets/Temogo_Mokidiane_CV.pdf" download>⬇️ Download</a>
+                <!-- In resume section of your HTML -->
+                <h3>Education</h3>
+                <ul>
+                    <li>
+                        <strong>BSc Information Technology</strong>
+                        North-West University, South Africa<br>
+                        <em>Expected Completion:November 2025</em>
+                    </li>
+                    <li>
+                        <strong>National Senior Certificate (NSC)</strong>
+                        Kalahari High School, Kuruman<br>
+                        <em>Completed: 2022</em><br>
+                    </li>
+                </ul>
+
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section active">
+            <div class="section-content">
+                <h2>Projects</h2>
+                <div class="projects-grid">
+                    <!-- Hotel Management System -->
+                    <div class="project-box">
+                        <img src="assets/images/hotel.jpg" alt="Hotel Management System">
+                        <div class="project-details">
+                            <h3>Hotel Management System</h3>
+                            <p>
+                                A desktop application built in <strong>Java</strong> with a <strong>MySQL</strong> backend. It includes modules for reservations, billing, and user management.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Messaging App -->
+                    <div class="project-box">
+                        <img src="assets/images/messaging.jpg" alt="Messaging App">
+                        <div class="project-details">
+                            <h3>Messaging App</h3>
+                            <p>
+                                A real-time chat system built using <strong>C# WinForms</strong>. Features include user authentication, direct messaging, and status indicators.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Skills Section -->
+        <section id="skills" class="section active">
+            <div class="section-content">
+                <h2>Skills</h2>
+                <div class="skills-grid">
+                    <!-- Languages -->
+                    <div class="skills-box">
+                        <h3>Languages</h3>
+                        <ul>
+                            <li>Java</li>
+                            <li>Python</li>
+                            <li>C#</li>
+                            <li>C++</li>
+                        </ul>
+                    </div>
+                    <!-- Tools -->
+                    <div class="skills-box">
+                        <h3>Tools</h3>
+                        <ul>
+                            <li>Git</li>
+                            <li>GitHub</li>
+                            <li>Visual Studio</li>
+                            <li>MS Office</li>
+                        </ul>
+                    </div>
+                    <!-- Databases -->
+                    <div class="skills-box">
+                        <h3>Databases</h3>
+                        <ul>
+                            <li>MySQL</li>
+                            <li>Oracle</li>
+                        </ul>
+                    </div>
+                    <!-- Soft Skills -->
+                    <div class="skills-box">
+                        <h3>Soft Skills</h3>
+                        <ul>
+                            <li>Communication</li>
+                            <li>Leadership</li>
+                            <li>Problem Solving</li>
+                            <li>Teamwork</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Contact Section -->
+        <section id="contact" class="section active">
+            <div class="section-content">
+                <h2>Contact Me</h2>
+
+                <!-- Contact Form -->
+                <form class="contact-form" action="mailto:temogomokidiane12@gmail.com" method="post" enctype="text/plain">
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email Address" required>
+                    <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
+                    <button type="submit">Send Message</button>
+                </form>
+
+                <!-- Direct Contact Info -->
+                <div class="contact-info">
+                    <p><strong>Email:</strong> temogomokidiane12@gmail.com</p>
+                    <p><strong>LinkedIn:</strong> <a href="http://linkedin.com/in/temogomokidiane" target="_blank">http://linkedin.com/in/temogomokidiane</a></p>
+                    <p><strong>GitHub:</strong> <a href="https://github.com/temogo" target="_blank">github.com/temogo</a></p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        &copy; 2025 Temogo Mokidiane
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const sections = document.querySelectorAll(".section");
+
+            // Reveal sections on scroll
+            const observer = new IntersectionObserver(
+                entries => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            entry.target.classList.add("visible");
+                        }
+                    });
+                },
+                { threshold: 0.2 }
+            );
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+            // Already in HTML or can be added inside <script>
+            const sections = document.querySelectorAll('.section');
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.2 });
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+
+        });
+    </script>
+
+
+
+</body>
+</html>

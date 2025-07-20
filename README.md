@@ -19,7 +19,7 @@ The site is designed with a modern slide-style layout, and is fully responsive f
 ## 🚀 Live Preview
 
 You can view the live portfolio here:  
-🔗 [Your GitHub Pages Link](https://yourusername.github.io/your-repo-name)
+🔗 [Your GitHub Pages Link]()
 
 ---
 
@@ -42,8 +42,8 @@ You can view the live portfolio here:
 ## 📫 Contact Me
 
 - **Email**: temogomokidiane12@gmail.com  
-- **GitHub**: [http://linkedin.com/in/temogomokidiane](http://linkedin.com/in/temogomokidiane)  
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- **GitHub**: []()  
+- **LinkedIn**: [http://linkedin.com/in/temogomokidiane](http://linkedin.com/in/temogomokidiane)
 
 ---
 

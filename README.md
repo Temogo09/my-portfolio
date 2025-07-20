@@ -7,10 +7,10 @@ The site is designed with a modern slide-style layout, and is fully responsive f
 ---
 ## 📁 Sections Included
 
-- **Home** – Introduction with profile and quote  
+- **Home** – Full name and surname with profile and quote  
 - **About Me** – Background and career goals  
-- **Resume** – Education and experience  
-- **Projects** – Highlights of completed projects with images  
+- **Resume** – Education and links to view and download my resume
+- **Projects** – Highlights of completed projects with images and links to see code in github 
 - **Skills** – Technical and soft skills  
 - **Contact** – Form to send an email and social links  
 

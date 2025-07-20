@@ -19,7 +19,7 @@ The site is designed with a modern slide-style layout, and is fully responsive f
 ## 🚀 Live Preview
 
 You can view the live portfolio here:  
-🔗 [Your GitHub Pages Link]()
+🔗 [https://temogo09.github.io/my-portfolio/](https://temogo09.github.io/my-portfolio/)
 
 ---
 

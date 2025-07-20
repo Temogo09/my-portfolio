@@ -26,9 +26,9 @@ You can view the live portfolio here:
 ## 🛠️ Tech Stack
 
 - **HTML5**  
-- **CSS3 (Flexbox & Grid)**  
-- **JavaScript (optional)**  
-- **Responsive Design (media queries)**  
+- **CSS**  
+- **JavaScript**  
+- **Responsive Design**  
 
 ---
 

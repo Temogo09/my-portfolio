@@ -41,7 +41,7 @@ You can view the live portfolio here:
 
 ## 📫 Contact Me
 
-- **Email**: temogomokidiane12@gmail.com  
+- **Email**: temogomokidiane12@gmail.com
 - **GitHub**: [https://github.com/Temogo09](https://github.com/Temogo09)  
 - **LinkedIn**: [http://linkedin.com/in/temogomokidiane](http://linkedin.com/in/temogomokidiane)
 

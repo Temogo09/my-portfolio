@@ -433,3 +433,12 @@ footer {
     color: #fff;
 }
 
+thank-you-message {
+    background-color: #e0ffe0;
+    padding: 1rem;
+    border: 1px solid #00a300;
+    border-radius: 8px;
+    color: #006600;
+    font-weight: bold;
+    text-align: center;
+}
